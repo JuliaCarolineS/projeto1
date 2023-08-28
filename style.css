@@ -33,3 +33,7 @@ a:hover:before {
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
 }
+div{
+     display: flex;
+}
+
