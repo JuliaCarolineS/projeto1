@@ -36,5 +36,6 @@ a:hover:before {
 .ini{
      display: flex;
     color:red;
+    align-itens:center;
 }
 
