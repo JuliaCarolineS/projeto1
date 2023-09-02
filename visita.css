@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #6e3064;
+    background-color: purple;
 }
 header{
     height: 150px;
@@ -57,7 +57,7 @@ h1{
     width: 50%;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(242, 218, 218);
+    background-color: white;
     border-radius: 10px;
 }
 p{
