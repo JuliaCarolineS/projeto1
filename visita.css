@@ -52,3 +52,10 @@ footer{
 h1{
     align-items:center
 }
+.ultima{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2vw;
+    padding: 0 2vw;
+}
