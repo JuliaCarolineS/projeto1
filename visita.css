@@ -49,5 +49,6 @@ footer{
     color: #000;
     font-style: italic;
 }
-h1{
-    align-text:center}
+.titulo{
+    align-items:center
+}
